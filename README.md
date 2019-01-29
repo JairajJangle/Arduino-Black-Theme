@@ -19,3 +19,8 @@ YOU CAN CREATE YOUR OWN MODS:
 You need to edit the theme.txt file, an XML file inside the syntax folder, and the button files. Unfortunately, not all items in the theme.txt file actually work, so if you can't get an item to change, try another one of the files.
 
 Thanks to https://github.com/jeffThompson/DarkArduinoTheme for dark theme of arduino, I have modified this theme to total black theme, this looks great on OLED screens.
+
+
+# Buy Me A Coffee
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PPXTF24LWH86U)
