@@ -7,12 +7,18 @@ Screenshot
 # INSTALLATION PROCEDURE:
 
 *Mac users:*
+-------------
+
 Look in ~/Applications/Arduino.app/Contents/Java/lib and replace the theme folder inside (making a copy of the original in case want to revert back).
 
 *Windows users:*
+-----------------
+
 Look in your Arduino installatio forder eg: C:\Program Files(x86)\Arduino\lib and replace the theme folder inside (making a copy of the original in case want to revert back).
 
 *Linux users:* 
+---------------
+
 Look in your Arduino installatio forder eg: /home/user_name/Arduino/lib and replace the theme folder inside (making a copy of the original in case want to revert back).
 
 YOU CAN CREATE YOUR OWN MODS:
