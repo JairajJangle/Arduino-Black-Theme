@@ -6,7 +6,7 @@ Screenshot
 
 # INSTALLATION PROCEDURE:
 
-Mac users:
+!Mac users:
 Look in ~/Applications/Arduino.app/Contents/Java/lib and replace the theme folder inside (making a copy of the original in case want to revert back).
 
 Windows users:
