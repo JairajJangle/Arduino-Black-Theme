@@ -1,5 +1,5 @@
 # Arduino-Black-Theme
-Total Black theme for Arduino IDE with bright fonts
+[Total Black theme for Arduino IDE with bright fonts](https://github.com/JairajJangle/Arduino-Black-Theme)
 
 Screenshot
 ![Screenshot](screenshot.png)
