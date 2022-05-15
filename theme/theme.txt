@@ -1,5 +1,5 @@
-#FUNCTIONS COLOR 			#FF6500 - ORANGE			KEYWORD1
-#FUNCTIONS COLOR			#FF6500 - ORANGE			KEYWORD2
+#FUNCTIONS COLOR 			#ff8000 - ORANGE			KEYWORD1
+#FUNCTIONS COLOR			#ff8000 - ORANGE			KEYWORD2
 #STRUCTURE COLORS 			#5E6D03 - GREEN			KEYWORD3
 #VARIABLES COLOR 				#00D4DB - BLUE				LITERAL1
 
@@ -76,12 +76,12 @@ editor.brackethighlight.color = #006699
 # TEXT - KEYWORDS
 
 # FUNCTIONS
-editor.keyword1.style = #FF6500,bold
-editor.data_type.style = #FF6500,bold
+editor.keyword1.style = #ff8000,bold
+editor.data_type.style = #ff8000,bold
 
 # METHODS
-editor.keyword2.style = #FF6500,plain
-editor.function.style = #FF6500,plain
+editor.keyword2.style = #ff8000,plain
+editor.function.style = #ff8000,plain
 
 # STRUCTURES
 editor.keyword3.style = #BEDD00,plain
