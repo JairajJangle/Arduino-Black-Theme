@@ -23,9 +23,13 @@ Look in your Arduino installation forder eg: `/home/user_name/Arduino/lib` and r
 
 ## You can create your own theme
 
-Edit the `theme.txt` file, an XML file inside the syntax folder, and the button files. Unfortunately, not all items in the theme.txt file actually work, so if you can't get an item to change, try another one of the files.
+Before playing with the theme files do not forget to take a backup of the theme folder.
 
-Thanks to https://github.com/jeffThompson/DarkArduinoTheme for dark theme of arduino, I have modified this theme to total black theme, this looks great on OLED screens.
+Edit the _theme.txt_ file, _.xml_ files inside the _syntax_ folder and the image files.
+
+Unfortunately, for me, not all the changes done in the _theme.txt_ file got reflected in the Arduino IDE, so if you can't get a style to be applied, try making changes in other files.
+
+Thanks to https://github.com/jeffThompson/DarkArduinoTheme for the inspiration.
 
 -----------
 
