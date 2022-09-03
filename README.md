@@ -17,7 +17,7 @@ Look in your Arduino installation forder eg: `C:\Program Files(x86)\Arduino\lib`
 
 ### Linux 
 
-Look in your Arduino installatio forder eg: `/home/user_name/Arduino/lib` and replace the `theme` folder inside (make a copy of the original in case you want to revert back).
+Look in your Arduino installation forder eg: `/home/user_name/Arduino/lib` and replace the `theme` folder inside (make a copy of the original in case you want to revert back).
 
 -------------------------------------------------------------------------
 
